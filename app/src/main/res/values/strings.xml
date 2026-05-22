@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Assignment3</string>
+
+    <string name="location_logger">
+        Location Logger
+    </string>
+
+    <string name="tracking_stopped">
+        Status: Tracking Stopped
+    </string>
+
+    <string name="latest_location">
+        Latest Location: Not available
+    </string>
+
+    <string name="start_tracking">
+        Start Tracking
+    </string>
+
+    <string name="stop_tracking">
+        Stop Tracking
+    </string>
+
+    <string name="saved_entries">
+        Saved Location Entries
+    </string>
+
+    <string name="no_saved_locations">
+        No saved locations yet.
+    </string>
+
+</resources>
